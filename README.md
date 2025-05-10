@@ -1,2 +1,9 @@
 # BPSK-QPSK-Demodulator-RFSoC-4x2
-Includes setup, introduction, example designs and BPSK/QPSK Demodulator design on RFSoC 4x2 board performed at Advanced Research in Communication(ARC) lab at IIT Ropar under the supervision of Dr. Satyam Agarwal
+## This Repository includes setup of RFSoC 4x2 Board, Introduction to RFSoC 4x2 board, Example Designs and the main design that is 'BPSK/QPSK Demodulator on RFSoC 4x2'.
+# ✒️ Setup of RFSoC 4x2 Board : 
+
+# ✒️ Introduction to RFSoC 4x2 board : 
+
+# ✒️ Example Designs : 
+
+# ✒️ Main Design  :
